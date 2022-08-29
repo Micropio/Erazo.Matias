@@ -1,0 +1,17 @@
+.icon {
+    font-size: 30px;
+    color: white;
+    margin: 1rem;
+}
+
+.img {
+    width: auto;
+    height: 15rem;
+}
+
+.card {
+    margin-left: 5rem;
+    margin-top: 2rem;
+    padding-left: 1rem;
+    align-items: center;
+}
