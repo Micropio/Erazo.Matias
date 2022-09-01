@@ -8,7 +8,8 @@ const ItemListContainer = () => {
                 <div className="card-header">Almohadon Mostaza</div>
                 <div className="card-body">
                 </div>
-                < Counter stock={5}/>
+                < Counter stock={5} />
+                
             </div>
         </>
     );
